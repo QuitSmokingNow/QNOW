@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 # Quit-Smoking-Now
 
 The #QuitSmokingNow project is based on the concept of an online community that wants to support a cause. 
